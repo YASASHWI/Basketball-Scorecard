@@ -1,6 +1,6 @@
 # Basketball Scorecard Project
 
-This project is a simple and interactive basketball scorecard built using **JavaScript**, **HTML**, and **CSS**. It allows users to keep track of the scores between two teams (Home and Guest) during a basketball game. The interface is user-friendly, displaying the current score and the remaining time.
+This project is a simple and interactive basketball scorecard built using **JavaScript**, **HTML**, and **CSS**. It allows users to keep track of the scores between two teams during a basketball game. The interface is user-friendly, displaying the current score and the remaining time.
 
 ## Features
 
